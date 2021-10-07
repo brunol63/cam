@@ -10,5 +10,11 @@
     "name" : "Turm",
     "latitude" : -21.21075,
     "longitude" : -50.44449
+  },
+  {
+    "key" : "italia",
+    "name" : "Itália",
+    "latitude" : -21.21451,
+    "longitude" : -50.45826
   }
 ]
